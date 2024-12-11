@@ -1,0 +1,4 @@
+jdk=com.qimoju.jurpc.serializer.JdkSerializer
+hessian=com.qimoju.jurpc.serializer.HessianSerializer
+json=com.qimoju.jurpc.serializer.JsonSerializer
+kyro=com.qimoju.jurpc.serializer.KryoSerializer

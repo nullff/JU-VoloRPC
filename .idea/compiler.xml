@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example-springboot-provider" />
+        <module name="ju-rpc-spring-boot-starter" />
+        <module name="example-springboot-consumer" />
+        <module name="example-provider" />
+        <module name="example-common" />
+        <module name="ju-rpc-core" />
+        <module name="example-consumer" />
+        <module name="ju-rpc-easy" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.6.13/589caa559deba4594e21ebf37f0c415a2cefe5fe/spring-boot-configuration-processor-2.6.13.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ju-rpc-spring-boot-starter.main" target="11" />
+      <module name="ju-rpc-spring-boot-starter.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

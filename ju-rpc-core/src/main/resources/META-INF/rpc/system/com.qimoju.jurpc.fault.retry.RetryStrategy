@@ -1,0 +1,2 @@
+no=com.qimoju.jurpc.fault.retry.NoRetryStrategy
+fixedInterval=com.qimoju.jurpc.fault.retry.FixedIntervalRetryStrategy

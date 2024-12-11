@@ -1,0 +1,3 @@
+com\qimoju\common\model\User.class
+com\qimoju\common\service\UserService.class
+com\qimoju\Main.class

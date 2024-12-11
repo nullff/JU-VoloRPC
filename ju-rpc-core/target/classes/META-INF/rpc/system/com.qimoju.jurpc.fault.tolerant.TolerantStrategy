@@ -1,0 +1,4 @@
+failBack=com.qimoju.jurpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.qimoju.jurpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.qimoju.jurpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.qimoju.jurpc.fault.tolerant.FailSafeTolerantStrategy
